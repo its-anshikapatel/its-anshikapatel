@@ -19,7 +19,38 @@
 <div>
 
   <h3 align="center">Relentless debugger 🔧📖 Perpetual evolver, questing for pixel-perfect perfection!📚 💻</h3>
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Footer Bar  --------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+ <p align="center"><a href="https://github.com/itshivams"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+ 
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Visitor Badge + Links ------------------------------------------------------------------------------------------------------------------------------>
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<hr>
+<div align="center">
+  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitshivams%2Fitshivams&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" />
+    <br><br>
+
+
+
+
+
+
+
+
+
+  <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=00FF88" alt="profile of Dev.to with username itshivam" /></a>
+  <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="profile of LinkedIn with username itshivam" /></a>
+  <a href="mailto:contact@itshivam.in"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="email of Shivam i.e.   contact@itshivam.in" /></a>
+
+</div>
+<hr>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</div>
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----- About me ------------------------------------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
