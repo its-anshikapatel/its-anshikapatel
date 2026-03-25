@@ -61,8 +61,7 @@
             <li>🌱 <b>I’m currently learning</b>: gRPC </li>
             <li>💬 <b>Ask me about</b>: DevOps, Cloud, Web Developments and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>🤔 <b>I’m currently open for</b>: Open Source Projects</li>
-            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://itshivam.in">My Portfolio</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: Software Engineer Roles</li>
         </ul>  
 <hr>
 
@@ -91,13 +90,22 @@ About Me = {
 "Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"
 }
 ```
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Anshika's Quotes ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=its-anshikapatel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-anshikapatel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <hr><div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<hr>
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Developers' Quotes
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=its-anshikapatel&limit=5&theme=dark&combine_all_yearly_contributions=true)
