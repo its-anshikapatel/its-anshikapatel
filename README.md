@@ -43,9 +43,9 @@
 
 
 
-  <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=00FF88" alt="profile of Dev.to with username itshivam" /></a>
-  <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="profile of LinkedIn with username itshivam" /></a>
-  <a href="mailto:contact@itshivam.in"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="email of Shivam i.e.   contact@itshivam.in" /></a>
+  <a href="https://dev.to/itsanshika"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=00FF88" alt="profile of Dev.to with username itsanshika" /></a>
+  <a href="https://www.linkedin.com/in/anshika-patel-60ad"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="profile of LinkedIn with username itsanshika" /></a>
+  <a href="mailto:anshikapatel383@itshivam.in"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="email of Shivam i.e.   anshikapatel383@itshivam.in" /></a>
 
 </div>
 <hr>
@@ -65,9 +65,6 @@
             <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://itshivam.in">My Portfolio</a>.</li>
         </ul>  
 <hr>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshika-patel-60ad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshikapatel383@gmail.com) 
 
 <!-- Skill Set  -->
 <div align="center">
