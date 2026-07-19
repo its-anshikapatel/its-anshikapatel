@@ -1,108 +1,582 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Intro -------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Hero Section --------------------------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<h1 align="center">Hi 👋, I'm Anshika Patel</h1>
+
 <h3 align="center">
-    <samp>
-      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=&color=00FF88&width=435&lines=%3E+Hey+There!%2C+I+am+Anshika)](https://git.io/typing-svg)
+<samp>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Data+Analyst+%7C+AI+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+Full+Stack+Developer;Building+Scalable+Applications+%26+Data-Driven+Solutions;Turning+Data+into+Insights+%F0%9F%93%8A)](https://git.io/typing-svg)
+
 </samp>
-
-
 </h3>
 
+<p align="center">
 
+Data-driven problem solver passionate about building scalable software, analyzing data, and creating AI-powered solutions that make an impact.
 
+</p>
 
+---
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" width="100%">
+</p>
 
-<div>
+<p align="center">
 
-  <h3 align="center">Relentless debugger 🔧📖 Perpetual evolver, questing for pixel-perfect perfection!📚 💻</h3>
+<img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fits-anshikapatel&label=PROFILE%20VIEWS&labelColor=00FF88&countColor=00FF88"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anshika-patel-60ad">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anshikapatel383@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://anshika-patel.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/its-anshikapatel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 Final Year B.Tech Computer Science Student
+
+💻 Passionate about Software Engineering, Data Analytics and AI
+
+📊 I enjoy transforming raw data into actionable insights using SQL, Python and Power BI.
+
+🚀 I love building full-stack applications powered by AI and modern cloud technologies.
+
+🌱 Constantly learning new technologies and improving problem-solving skills.
+
+---
+
+## 🔍 Current Focus
+
+- 🔭 Building AI-powered Full Stack Applications
+- 📊 Practicing Advanced SQL & Data Analytics
+- 📈 Learning Power BI & Business Intelligence
+- 🤖 Exploring LLMs & Generative AI
+- ☁️ Strengthening Cloud & Backend Development
+- 📚 Solving Data Analysis & SQL Case Studies
+
+---
+
+## 💬 Ask Me About
+
+- SQL
+- Python
+- Power BI
+- PostgreSQL
+- Data Analytics
+- React
+- Next.js
+- Node.js
+- REST APIs
+- AI APIs
+- Git & GitHub
+
+---
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Footer Bar  --------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Skill Set ----------------------------------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
- <p align="center"><a href="https://github.com/itshivams"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
- 
-
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Visitor Badge + Links ------------------------------------------------------------------------------------------------------------------------------>
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<hr>
 <div align="center">
-  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitshivams%2Fitshivams&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" />
-    <br><br>
 
+# 🛠️ Tech Stack & Skills
 
-
-
-
-
-
-
-
-  <a href="https://dev.to/itsanshika"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=00FF88" alt="profile of Dev.to with username itsanshika" /></a>
-  <a href="https://www.linkedin.com/in/anshika-patel-60ad"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="profile of LinkedIn with username itsanshika" /></a>
-  <a href="mailto:anshikapatel383@itshivam.in"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="email of Shivam i.e.   anshikapatel383@itshivam.in" /></a>
+<i>Building scalable software, extracting insights from data, and creating AI-powered solutions.</i>
 
 </div>
-<hr>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</div>
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- About me ------------------------------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<hr>
-<div align="centre">
-        <ul>
-            <li>🔭 <b>I’m currently working on</b>: Next.js, Node.js, AI APIs, Databases </li>
-            <li>🌱 <b>I’m currently learning</b>: gRPC </li>
-            <li>💬 <b>Ask me about</b>: DevOps, Cloud, Web Developments and Competetive Programming.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>🤔 <b>I’m currently open for</b>: Software Engineer Roles</li>
-        </ul>  
-<hr>
 
-<!-- Skill Set  -->
-<div align="center">
-    <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
-    <h4>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions. </h4>
-</div>
+---
 
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Anshika's Tech Stack Table    ----------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+## 📊 Data Analytics
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<!-- About me  -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-```js
-About Me = {
-"I find joy in crafting elegant solutions through the art of coding.",
-"Proficient in languages like Python and C++, I navigate the digital realm with expertise.",
-"My expertise extends to the intricate web technologies of NextJS, Golang, and DevOps, where I blend creativity and functionality seamlessly.",
-"I am more than a student; I am a creator, a problem solver, and a Developer."
-"Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"
-}
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+---
+
+## 💾 Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+</p>
+
+---
+
+## 💻 Full Stack Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 AI & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</p>
+
+---
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+```python
+class AnshikaPatel:
+
+    role = [
+        "Software Engineer",
+        "Data Analyst",
+        "AI Enthusiast"
+    ]
+
+    education = "B.Tech Computer Science"
+
+    skills = {
+        "Languages": [
+            "Python",
+            "SQL",
+            "JavaScript",
+            "TypeScript",
+            "C++"
+        ],
+
+        "Data": [
+            "Power BI",
+            "Excel",
+            "Pandas",
+            "NumPy",
+            "PostgreSQL"
+        ],
+
+        "Development": [
+            "React",
+            "Next.js",
+            "Node.js",
+            "Express"
+        ],
+
+        "Cloud": [
+            "AWS",
+            "Azure",
+            "Docker"
+        ],
+
+        "AI": [
+            "LLMs",
+            "Generative AI",
+            "Prompt Engineering"
+        ]
+    }
+
+    motto = "Turning data into insights and ideas into impactful software."
 ```
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Anshika's Quotes ----------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-  <hr><div align="center">
+---
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Featured Projects ---------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Joke
+<div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+# 🚀 Featured Projects
 
-<hr>
+<i>Some of the projects I've built to solve real-world problems using AI, Data Analytics and Full Stack Development.</i>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Developers' Quotes
+</div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+---
+
+## 📊 AI SQL Analytics Platform
+
+> Natural language to SQL query generation powered by LLMs.
+
+**Tech Stack**
+
+`Python` • `SQL` • `PostgreSQL` • `LLMs` • `FastAPI`
+
+---
+
+## 💰 FinTech Expense Intelligence System
+
+> Smart expense tracking platform with AI-powered financial insights and analytics.
+
+**Tech Stack**
+
+`Next.js` • `Node.js` • `PostgreSQL` • `Gemini API`
+
+---
+
+## 🎓 MentorBot
+
+> AI-powered mentorship platform offering personalized guidance and intelligent recommendations.
+
+**Tech Stack**
+
+`React` • `Node.js` • `PostgreSQL` • `LLM APIs`
+
+---
+
+## 📈 Placement Tracker
+
+> Placement management dashboard for tracking applications, interview progress and hiring analytics.
+
+**Tech Stack**
+
+`React` • `Node.js` • `PostgreSQL`
+
+---
+
+## 🍔 BurgerHub
+
+> Full Stack restaurant ordering platform with authentication and database integration.
+
+**Tech Stack**
+
+`React` • `Node.js` • `MongoDB`
+
+---
+
+<div align="center">
+
+# 📈 GitHub Analytics
+
+</div>
+
+<table align="center">
+
+<tr>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=its-anshikapatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-anshikapatel&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anshikapatel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anshikapatel&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📚 Currently Exploring
+
+</div>
+
+- 📊 Business Intelligence
+- 📈 Product Analytics
+- 🤖 AI-powered Data Analysis
+- ☁️ Cloud Technologies
+- 🏗️ Backend System Design
+- 📉 Data Visualization with Power BI
+- 🧠 Machine Learning Fundamentals
+- ⚡ Scalable Full Stack Applications
+
+---
+
+<div align="center">
+
+---
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Achievements & Certifications ---------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<div align="center">
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=its-anshikapatel&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📜 Certifications
+
+</div>
+
+| Certification | Platform |
+|---------------|----------|
+| 🏅 Advanced SQL | HackerRank |
+| ☁️ AWS Cloud Practitioner | Simplilearn |
+| 🤖 Generative AI Fundamentals | Self Learning |
+| 📊 Power BI *(Currently Learning)* | Microsoft Learn |
+
+---
+
+<div align="center">
+
+# 💻 Coding Profiles
+
+</div>
+
+<p align="center">
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+> **Replace the links above with your own profile URLs.**
+
+---
+
+<div align="center">
+
+# 🌐 Connect With Me
+
+</div>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anshika-patel-60ad">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anshikapatel383@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://anshika-patel.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/its-anshikapatel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# 💡 What Drives Me
+
+</div>
+
+> *"I believe great products are built by combining software engineering, data-driven decision making, and continuous learning. Whether it's developing scalable applications or uncovering insights from data, I enjoy solving problems that create real impact."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</div>
+
+---
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Fun Zone ------------------------------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/its-anshikapatel/its-anshikapatel/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/its-anshikapatel/its-anshikapatel/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/its-anshikapatel/its-anshikapatel/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+# 😂 Tech Joke of the Day
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💬 Random Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-anshikapatel&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Let's Build Something Amazing Together
+
+*"Code with logic. Analyze with curiosity. Build with purpose."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:0D1117&height=120&section=footer"/>
+
 </div>
