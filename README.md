@@ -26,12 +26,6 @@ Data-driven problem solver passionate about building scalable software, analyzin
 
 <p align="center">
 
-<img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fits-anshikapatel&label=PROFILE%20VIEWS&labelColor=00FF88&countColor=00FF88"/>
-
-</p>
-
-<p align="center">
-
 <a href="https://www.linkedin.com/in/anshika-patel-60ad">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -318,26 +312,6 @@ class AnshikaPatel:
 
 ---
 
-## 📈 Placement Tracker
-
-> Placement management dashboard for tracking applications, interview progress and hiring analytics.
-
-**Tech Stack**
-
-`React` • `Node.js` • `PostgreSQL`
-
----
-
-## 🍔 BurgerHub
-
-> Full Stack restaurant ordering platform with authentication and database integration.
-
-**Tech Stack**
-
-`React` • `Node.js` • `MongoDB`
-
----
-
 <div align="center">
 
 # 📈 GitHub Analytics
@@ -368,24 +342,6 @@ class AnshikaPatel:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anshikapatel&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-anshikapatel&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 # 📚 Currently Exploring
 
 </div>
@@ -408,13 +364,6 @@ class AnshikaPatel:
 <!----- Achievements & Certifications ---------------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<div align="center">
-
-# 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=its-anshikapatel&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
 
 ---
 
@@ -434,30 +383,6 @@ class AnshikaPatel:
 ---
 
 <div align="center">
-
-# 💻 Coding Profiles
-
-</div>
-
-<p align="center">
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
 
 > **Replace the links above with your own profile URLs.**
 
@@ -515,23 +440,6 @@ If you like my work, don't forget to ⭐ my repositories.
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div align="center">
-
-# 🐍 Contribution Snake
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/its-anshikapatel/its-anshikapatel/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/its-anshikapatel/its-anshikapatel/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/its-anshikapatel/its-anshikapatel/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
 
 ---
 
