@@ -44,8 +44,6 @@ Data-driven problem solver passionate about building scalable software, analyzin
 
 🎓 Final Year B.Tech Computer Science Student
 
-💻 Passionate about Software Engineering, Data Analytics and AI
-
 📊 I enjoy transforming raw data into actionable insights using SQL, Python and Power BI.
 
 🚀 I love building full-stack applications powered by AI and modern cloud technologies.
@@ -56,28 +54,12 @@ Data-driven problem solver passionate about building scalable software, analyzin
 
 ## 🔍 Current Focus
 
-- 🔭 Building AI-powered Full Stack Applications
+- 🔭 Building AI-powered Applications
 - 📊 Practicing Advanced SQL & Data Analytics
 - 📈 Learning Power BI & Business Intelligence
 - 🤖 Exploring LLMs & Generative AI
 - ☁️ Strengthening Cloud & Backend Development
 - 📚 Solving Data Analysis & SQL Case Studies
-
----
-
-## 💬 Ask Me About
-
-- SQL
-- Python
-- Power BI
-- PostgreSQL
-- Data Analytics
-- React
-- Next.js
-- Node.js
-- REST APIs
-- AI APIs
-- Git & GitHub
 
 ---
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -208,63 +190,6 @@ Data-driven problem solver passionate about building scalable software, analyzin
 
 ---
 
-## 👩‍💻 About Me
-
-```python
-class AnshikaPatel:
-
-    role = [
-        "Software Engineer",
-        "Data Analyst",
-        "AI Enthusiast"
-    ]
-
-    education = "B.Tech Computer Science"
-
-    skills = {
-        "Languages": [
-            "Python",
-            "SQL",
-            "JavaScript",
-            "TypeScript",
-            "C++"
-        ],
-
-        "Data": [
-            "Power BI",
-            "Excel",
-            "Pandas",
-            "NumPy",
-            "PostgreSQL"
-        ],
-
-        "Development": [
-            "React",
-            "Next.js",
-            "Node.js",
-            "Express"
-        ],
-
-        "Cloud": [
-            "AWS",
-            "Azure",
-            "Docker"
-        ],
-
-        "AI": [
-            "LLMs",
-            "Generative AI",
-            "Prompt Engineering"
-        ]
-    }
-
-    motto = "Turning data into insights and ideas into impactful software."
-```
-
-
----
-
-<div align="center">
 
 # 🌐 Connect With Me
 
