@@ -317,10 +317,6 @@ If you like my work, don't forget to ⭐ my repositories.
 
 <div align="center">
 
----
-
-<div align="center">
-
 # 😂 Tech Joke of the Day
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
@@ -349,9 +345,3 @@ If you like my work, don't forget to ⭐ my repositories.
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:0D1117&height=120&section=footer"/>
-
-</div>
