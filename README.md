@@ -4,13 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Anshika Patel</h1>
 
-<h3 align="center">
-<samp>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Data+Analyst+%7C+AI+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+Full+Stack+Developer;Building+Scalable+Applications+%26+Data-Driven+Solutions;Turning+Data+into+Insights+%F0%9F%93%8A)](https://git.io/typing-svg)
-
-</samp>
-</h3>
 
 <p align="center">
 
@@ -267,53 +261,6 @@ class AnshikaPatel:
     motto = "Turning data into insights and ideas into impactful software."
 ```
 
----
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Featured Projects ---------------------------------------------------------------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<div align="center">
-
-# 🚀 Featured Projects
-
-<i>Some of the projects I've built to solve real-world problems using AI, Data Analytics and Full Stack Development.</i>
-
-</div>
-
----
-
-## 📊 AI SQL Analytics Platform
-
-> Natural language to SQL query generation powered by LLMs.
-
-**Tech Stack**
-
-`Python` • `SQL` • `PostgreSQL` • `LLMs` • `FastAPI`
-
----
-
-## 💰 FinTech Expense Intelligence System
-
-> Smart expense tracking platform with AI-powered financial insights and analytics.
-
-**Tech Stack**
-
-`Next.js` • `Node.js` • `PostgreSQL` • `Gemini API`
-
----
-
-## 🎓 MentorBot
-
-> AI-powered mentorship platform offering personalized guidance and intelligent recommendations.
-
-**Tech Stack**
-
-`React` • `Node.js` • `PostgreSQL` • `LLM APIs`
-
----
-
-<div align="center">
-
 # 📈 GitHub Analytics
 
 </div>
@@ -342,20 +289,7 @@ class AnshikaPatel:
 
 <div align="center">
 
-# 📚 Currently Exploring
 
-</div>
-
-- 📊 Business Intelligence
-- 📈 Product Analytics
-- 🤖 AI-powered Data Analysis
-- ☁️ Cloud Technologies
-- 🏗️ Backend System Design
-- 📉 Data Visualization with Power BI
-- 🧠 Machine Learning Fundamentals
-- ⚡ Scalable Full Stack Applications
-
----
 
 <div align="center">
 
@@ -465,15 +399,6 @@ If you like my work, don't forget to ⭐ my repositories.
 
 <div align="center">
 
-# 📈 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-anshikapatel&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🌟 Let's Build Something Amazing Together
 
