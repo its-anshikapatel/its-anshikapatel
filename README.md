@@ -343,5 +343,3 @@ If you like my work, don't forget to ⭐ my repositories.
 *"Code with logic. Analyze with curiosity. Build with purpose."*
 
 </div>
-
----
