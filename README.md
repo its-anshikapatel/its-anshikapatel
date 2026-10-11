@@ -5,8 +5,7 @@
 <a href="https://github.com/its-anshikapatel">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0F4C81&center=true&vCenter=true&width=680&lines=Cybersecurity+%26+AI+Engineer;LLM+Guardrails+%26+Secure+Backends;Multithreaded+C%2B%2B17+Network+Engines;Secure-by-design+infrastructure" alt="Typing SVG" />
 </a>
-
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/anshika-patel-60ad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:anshikapatel383@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -43,56 +42,6 @@ My work sits at the intersection of three things: **LLM applications that can't 
 | 🏆 National rank | **708** | iCAT 2025, India-wide internship aptitude test |
 
 <br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-
-**AI / LLM Engineering**
-
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/RAG-0f4c81?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
-<img src="https://img.shields.io/badge/LLM%20Guardrails-16a085?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="LLM Guardrails" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-
-**Cybersecurity**
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/TCP%2FIP%20%26%20TLS-0d1b2a?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="TCP/IP and TLS" />
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-<img src="https://img.shields.io/badge/RGPD%20%2F%20GDPR-0055A4?style=for-the-badge&logo=dataprotection&logoColor=white" alt="RGPD GDPR" />
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-
-**Data, Cloud & Backend**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect" />
-<img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-<br/>
-
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack |
@@ -111,21 +60,6 @@ My work sits at the intersection of three things: **LLM applications that can't 
 <a href="https://github.com/its-anshikapatel/BeFair-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=its-anshikapatel&repo=BeFair-AI&theme=tokyonight&hide_border=true&description_lines_count=2" alt="BeFair AI" />
 </a>
-
-</div>
-
-<br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=its-anshikapatel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-anshikapatel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=330" height="170" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=its-anshikapatel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="GitHub streak" />
 
 </div>
 
@@ -154,8 +88,6 @@ If you're hiring for **application security**, **AI/LLM engineering**, **backend
 <a href="mailto:anshikapatel383@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-anshikapatel383%40gmail.com-0f4c81?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email me" /></a>
 
 <br/><br/>
-
-<i>« Le meilleur code est celui qui résiste à l'utilisateur, pas seulement à la compilation. »</i>
 
 </div>
 
