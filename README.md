@@ -79,7 +79,7 @@ Specialisation: **Cybersecurity** · 4-year engineering degree (Bac+4 equivalent
 
 ## 📬 Let's Talk
 
-I'm actively looking for a **stage (internship) in France from 2027**, and open to **junior engineering roles from July 2027** across **France (Paris & all regions), the EU, UK, US, APAC and remote**.
+I'm actively looking for a **stage (internship) in France from 2027**, and open to **junior engineering roles from July 2027** across all global regions and remote**.
 
 If you're hiring for **application security**, **AI/LLM engineering**, **backend or data engineering** — or you're a university reviewing a Master's application — I'd genuinely like to hear from you.
 
