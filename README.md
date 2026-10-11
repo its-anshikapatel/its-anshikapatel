@@ -8,11 +8,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=its-anshikapatel&style=for-the-badge&color=0f4c81&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/its-anshikapatel?style=for-the-badge&color=16a085&labelColor=0d1b2a&logo=github" alt="Followers" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/anshika-patel-60ad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:anshikapatel383@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/its-anshikapatel?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
